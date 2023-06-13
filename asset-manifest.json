@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/po-strikes25/basic-template-react.git/static/css/main.3ceca219.css",
+    "main.js": "/po-strikes25/basic-template-react.git/static/js/main.0f33d368.js",
+    "index.html": "/po-strikes25/basic-template-react.git/index.html",
+    "main.3ceca219.css.map": "/po-strikes25/basic-template-react.git/static/css/main.3ceca219.css.map",
+    "main.0f33d368.js.map": "/po-strikes25/basic-template-react.git/static/js/main.0f33d368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceca219.css",
+    "static/js/main.0f33d368.js"
+  ]
+}
